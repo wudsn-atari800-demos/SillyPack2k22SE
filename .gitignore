@@ -3,3 +3,4 @@
 *.atdbg
 /input
 /*.atr
+/atr/files/AUTORUN.AR0
