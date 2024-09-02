@@ -1,0 +1,19 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE DEMO COMPO
+Title:   R:EPILOGUE
+Author:  New Generation & Zelax
+
+         Laoo (code)
+         Solo (code)
+         Swiety (code)
+         Yosh (code)
+         Blasph (gfx)
+         dely (gfx)
+         Tiger (gfx)
+         Miker (msx)
+         Tatqoo (msx)
+         ZoltarX (msx)
+
+Info:    Requires PAL
+         Requires 576K RAM (RAMBO)
+         Stereo, 2nd POKEY required

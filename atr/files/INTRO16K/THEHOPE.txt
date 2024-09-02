@@ -1,0 +1,10 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE 16KB INTRO COMPO
+Title:   The Hope
+Author:  Martin Simecek
+         aka Matosimi (code)
+         Marek Pesout 
+         aka Poison6502
+         (gfx,msx,scroll,idea)
+
+Info:    Stereo, 2nd POKEY required

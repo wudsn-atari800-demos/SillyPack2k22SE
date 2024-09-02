@@ -1,0 +1,18 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   Atari Adventure
+Author:  Zdenek Eisenhammer
+         aka PG
+Runtime: 2:33
+Player:  Raster Music Tracker 1.34
+         Original RMT file included
+Info:    Stereo, 2nd POKEY required
+         Uses 4x speed
+
+Composed in 07/2022 in RMT 1.34beta.
+Thanks to VinsCool for binary export.
+
+Please, use the .xex for playback at
+the compo. Playing the .RMT file in
+older players will cause sound
+issues.

@@ -1,0 +1,8 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE GFX COMPO
+Title:   Night Knight
+Author:  ??? ???
+         aka Katoyama/Team Koalas
+
+Info:    160x240
+Tools:   G2F

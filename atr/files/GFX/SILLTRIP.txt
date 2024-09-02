@@ -1,0 +1,9 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE GFX COMPO
+Title:   Silly Trip
+Author:  Jarek Wyszynski
+         aka Odyn1ec/Lamers
+
+Info:    160x240 pixels
+         Laoo palette
+Tools:   G2F

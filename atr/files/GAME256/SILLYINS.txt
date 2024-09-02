@@ -1,0 +1,18 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE 256B GAME COMPO
+Title:   Silly Invaders 2022
+Author:  Grzegorz Zyla
+         aka SuN
+E-Mail:  grzegorzsun@gmail.com
+
+Info:    Requires Atari XL OS Rev. 2
+         Turn BASIC off.
+         Sound via GTIA.
+         Run with VBXE or RetroTINK
+         to get better colors!
+         
+Use joystick in port one to play.
+Shoot down all aliens for reward :)
+
+Version wihtout run address is
+included as "SILLYINV.xex".

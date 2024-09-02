@@ -1,0 +1,10 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   Tale of an unreleased
+         Space Shooter
+Author:  Roland Voss
+         aka Triace / Desire^Insane
+Runtime: 3:41
+Player:  Raster Music Tracker 1.28
+         Origial RMT file included
+Info:    Stereo, 2nd POKEY required

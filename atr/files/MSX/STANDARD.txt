@@ -1,0 +1,9 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   Standard no. 443
+Author:  Dariusz Duma
+         aka Dhor/ME
+Runtime: 2:59
+Player:  Theta Music Composer
+         Origial TMC file included
+Info:    Stereo, 2nd POKEY required

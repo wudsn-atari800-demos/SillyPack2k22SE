@@ -1,0 +1,16 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   Scorch V1.43
+Author:  Tomasz Pecko
+         aka Pecus
+         Pawel Kalinowski
+         aka pirx
+
+Info:    Supports NTSC
+         Mono
+
+Works on any Atari 8-bit computer
+with a minimum of 48kB RAM. 
+The game works with the OS turned
+on and does not use any tricks
+that could cause problems.

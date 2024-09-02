@@ -1,0 +1,8 @@
+Party:   Silly Venture 2k22 SE
+Compo:   WILD COMPO
+Type:    Atari XL/XE Graphics
+Title:   Laurel and Hardy
+Author:  Marek Pesout 
+         aka Poison6502
+
+Info:    Conversion from internet.

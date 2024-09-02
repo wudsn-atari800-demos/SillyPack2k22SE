@@ -1,0 +1,33 @@
+Party:   Silly Venture 2022 SE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   Pong 512
+Author:  Ralf Patschke
+         aka PPs
+
+Info:    Mono
+         Now runs from DOS 2.5
+         Single player vs. CPU game
+         Beatable
+
+Very simple Pong clone that is just
+some sectors in length.
+
+Press button on paddle 0 to play
+after loading has finished.
+Players should use paddles to play.
+2 player mode uses both paddles in
+port one of ATARI. First player who
+gets 9 points wins. Game will reboot
+after a short break at the end.
+
+Initially I planned to have all
+within 384 bytes, but later I wanted
+to be able to beat the CPU in one
+player game. This caused in a length
+above 384 bytes, so I wanted to add
+some sound and the mid screen line
+and changed aim to 512 bytes. I am
+sure, that there is potential
+to optimize it better, but atm I am
+fine with the results.
+__________________________24.07.2022

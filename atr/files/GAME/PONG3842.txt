@@ -1,0 +1,9 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   Pong 384
+Author:  Ralf Patschke
+         aka PPs
+
+Info:    Mono
+         Now runs from DOS 2.5
+         Two player game

@@ -1,0 +1,11 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   ???
+Author:  ??? ???
+         aka ???/???
+Runtime: ?:??
+Player:  Raster Music Tracker 1.28
+         Origial RMT file included
+Info:    Mono
+Info:    Mono, 2nd POKEY supported
+Info:    Stereo, 2nd POKEY required

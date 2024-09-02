@@ -1,0 +1,9 @@
+Party:   Silly Venture 2k22 WE
+Compo:   ATARI XL/XE GITA MSX COMPO
+Title:   Let's Go!
+Author:  Shiru Otaku
+         aka shiru8bit
+E-Mail:  shiru@mail.ru
+Runtime: 2:09
+
+Info:    Mono (PAL)

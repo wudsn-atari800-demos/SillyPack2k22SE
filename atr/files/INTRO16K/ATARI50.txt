@@ -1,0 +1,19 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE 16KB INTRO COMPO
+Title:   ATARI50
+Author:  Ralf Patschke
+         aka PPs (code)
+         Christian Duesterhoeft
+         aka Buddy (msx)
+
+Info:    Supports PAL and NTSC
+         Mono, 2nd POKEY supported
+
+
+16384 Bytes celebrating ATARI's
+50th birthday. Should run on any
+ATARI 8-Bit computer with at least
+48 kB of RAM.
+
+Created between 25.06. & 14.07.2022
+Let's Party! __DON'T CRUNCH BYTES! ;)

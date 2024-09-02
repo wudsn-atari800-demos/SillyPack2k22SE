@@ -1,0 +1,16 @@
+Party:   Silly Venture 2k22 SE
+Compo:   WILD COMPO
+Type:    Atari XL/XE Graphics
+Title:   DRUID loading screen
+         remastered for Atari 8-bit
+Author:  ??? ???
+         aka MrCin
+
+
+Info:
+The graphics are a remastered (i.e. 
+leaned, improved and adjusted to
+Atari 8-bit capabilities) version of
+the original loading screen from the
+C64 version of DRUID by Bob
+Stevenson. IT IS NOT a 1:1 copy.

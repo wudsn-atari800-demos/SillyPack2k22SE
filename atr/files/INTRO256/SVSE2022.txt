@@ -1,0 +1,14 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE 256B INTRO COMPO
+Title:   Silly Venture SE 2022
+Author:  Grzegorz Zyla
+         aka SuN
+E-Mail:  grzegorzsun@gmail.com
+
+Info:    Requires Atari XL OS Rev. 2
+         Mono, GITA
+         Now runs from DOS 2.5
+         Source code included
+
+         Run with VBXE or RetroTINK
+         to get better colors!

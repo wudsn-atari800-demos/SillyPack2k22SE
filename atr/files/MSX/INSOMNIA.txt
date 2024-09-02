@@ -1,0 +1,9 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   Insomnia XL
+Author:  Christian Duesterhoefft
+         aka Buddy
+Runtime: 2:51
+Player:  Raster Music Tracker 1.33
+         Origial RMT file included
+Info:    Mono

@@ -1,0 +1,8 @@
+Party:   Silly Venture 2022 SE
+Compo:   ATARI XL/XE 16KB INTRO COMPO
+Title:   Greets from the top
+Author:  Krzysztof Kluczek
+         aka kk/Altair (code,msx)
+
+Info:    Mono
+         Now RESET causes cold start

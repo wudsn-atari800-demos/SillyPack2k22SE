@@ -1,0 +1,12 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   The Fall of Sky Cross
+         Silly Venture 2k22 SE Edit
+Author:  Marek Pesout 
+         aka Poison6502
+Runtime: 3:41
+Player:  Stereo Double Chaos Music
+         Composer by DATRI in 1999
+Info:    Stereo, 2nd POKEY required
+         Composed in 2022
+

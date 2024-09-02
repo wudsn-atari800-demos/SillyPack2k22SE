@@ -1,0 +1,128 @@
+        ______   ___ ___      ___                    __  _  __ __
+       /   __|___\_//  /_____/  /________             / | |  /  /
+  _ __/____\|   /  /  /_    /  /_    /   |_____      /_ |_| /_ /_
+ _ ___   |/    /  \   \|   /   \|   /    |/   /            _
+      \ ._____/___/._______ .______/\___     /   --+ Silly Venture +--
+       \|         \|       \|          /    /
+                _____________________ /____/  _ __ _____________________
+          ___  /    /    __/_   _    /   _/_______  __   /  _    /    _/__ _
+         /   |/    /   _____/  |    /     _/  /   | /   /  |/   /   ______
+   _  _ /    |    /    \|  /   |    \    /   /    |/   /   |    \   \|  /__ _
+   \\\__\ .______/\ ._____/.___|\____\ ._\__/\ .______/\ ._|\    \ ____/ _///
+         \|        \|     \|          \|      \|        \|   \____\|sK!
+                   ______________ SUMMER EDITION ______________
+                  \_\__\_______________/|\_______________/__/_/
+._\\__________________________________________________________________________.
+|                                                                             |
+|   .................. REACHING THE SKY WITH ATARI's 50TH! ................   :
+:   ................... 12-14 AUGUST 2022 GDANSK / POLAND .................   .
+.                 ___________________________________________________________/
+                 ____________________________________________________________ _
+  Atari XL/XE    \_\______________________________________________________ __ _
+
+          TITLE:                         AUTHOR:                          PTS:
+         01. Readme                     JAC!                             n/a
+    ____.
+  /|\___| POKEY MSX
+
+          TITLE:                       AUTHOR:                          PTS:
+         01. Atari Adventure          PG / AGG^Unreal                  7.447
+         02. The Fall of Sky Cross    Poison6502                       7.382
+         03. Standard no. 443         Dhor / MEC                       7.097
+         04. Tale of an unreleased    Triace / Desire                  6.637
+              Space Shooter
+         05. Insomnia XL                Buddy^Buddy76cd                  6.539
+         06. 3 minutes to nowhere     Dhor / MEC                       5.369
+    ____.
+  /|\___| GTIA MSX
+
+          TITLE:                         AUTHOR:                          PTS:
+         01. Let's Go!                  Shiru a.k.a. shiru8bit           7.545
+             Let's Go! (NTSC)
+    ____.
+  /|\___| GFX
+
+          TITLE:                         AUTHOR:                          PTS:
+         01. Silly Trip                 Odyn1ec / Lamers                 8.138
+         02. Dark Angels                Tiger / New Generation           6.698
+         03. Night Knight               Katoyama / Team Koalas           6.236
+         04. Lowki                      Ming                             5.865
+         05. Adelle                     Katoyama / Team Koalas           5.670
+         06. Saludos Atarros!           MrCin                            5.276
+         07. Stormbringer               Katoyama / Team Koalas           4.718
+         08. Laglace                    Ming                             4.408
+    ____.
+  /|\___| 256b INTRO
+
+          TITLE:                         AUTHOR:                          PTS:
+
+         01. Chryzantemy 256            Jakub Husak                      7.964
+         02. Silly Venture SE 2022      SuN                              6.556
+         03. Party-zantki               Kane / Suspect                   5.077
+         04. 255b for sv22se            PPs                              4.679
+    ____.
+  /|\___| 16kb INTRO 
+
+          TITLE:                         AUTHOR:                          PTS:
+         01. Greets from the top        KK / Altair                      7.218
+         02. ATARI 50                   PPs                              5.204
+         03. The Hope                 Matosimi & Poison6502            4.982
+    ____.
+  /|\___| DEMO
+
+          TITLE:                         AUTHOR:                          PTS:
+         01. R:EPILOGUE                 NG+ZELAX                         8.559
+         02. Unstable                   Masters of Electric City         6.895
+         03. Mode 9                     Buddy & PPs                      5.571
+         04. Smack my candy up          Desire                           5.321
+         05. Hawkeye Tunetro            JAC! & Buddy & Rocky             4.964
+         06. SV22SE 8-bit Unity Demo    PPs                              3.393
+         07. Breathe (dla Gorgha)       Misza / AOL                      2.393
+         08. 256Hz - soul healing       Misza / AOL                      1.500
+              sound (dla Kaza)  
+    ____.
+  /|\___| 256b GAME
+
+          TITLE:                         AUTHOR:                          PTS:
+
+         01. Tiny Crawler               KK / Altair                      7.648
+         02. Breakout+                  tr1x / Agenda                    6.681
+         03. UFO Slalom                 tr1x, Piesiu / Agenda            6.658
+         04. Rush Hour Race             tr1x, Piesiu / Agenda            6.160
+         05. Cactus Billy               tr1x, Piesiu / Agenda            5.960
+         06. Silly Invaders 2022        SuN                              4.822
+    ____.
+  /|\___| GAME
+
+          TITLE:                         AUTHOR:                          PTS:
+         01. Scorch                     Pecus & pirx                     8.190
+         02. Bricks 512                 PPs                              4.593
+         03. Pong 512                   PPs                              4.463
+             Pong 384
+             Pong 384, 2 Players
+   _____.
+  \\____| WILD COMPO
+
+          TITLE:                         AUTHOR:                          PTS:
+          01. ultraBooST                 Cream                            8.014
+          02. Atari Tattoo               oxbloodtattoo                    6.000
+                                         @russellwhite3_tattoos
+          03. Alchemist                  Liv                              5.793
+          04. Randomazer Editor          Thomas Ilg                       5.391
+         05. DRUID loading screen       MrCin                            5.286 
+              remastered for Atari 8-bit
+          06. Piano Salvation            Poison6502                       4.746
+              (SV2022SE reEDIT)
+         07. Laurel and Hardy           Poison6502                       3.492
+          08. I want to live             2a.m                             3.286
+              in the past   
+    _________________________________________________________________________ 
+   _\                                                                       /_
+  |         14TH EDITION OF SILLY VENTURE / 34TH FLOOR OF OLIVIA STAR         |
+  |                      /|\  50TH ATARI ANNIVERSARY  /|\                     | 
+  :                                                                           |
+  ._                       GDANSK, POLAND 12-14.08.2022                      _:
+   /___________________              ___    .___            ________________\
+                      /________>> /\  |  /\ | _/ | <<_______\
+                                 /  \ | /  \|  \ |        sK!
+                                F  O  R  E  V  E  R

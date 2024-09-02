@@ -1,0 +1,28 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE DEMO COMPO
+Title:   SV22SE 8-Bit Unity Demo
+Author:  Ralf Patschke
+         aka PPs
+
+Info:    Mono
+
+I just did a small demonstration for
+both A8 and Lynx using 8-bit unity.
+So this is my first ever Lynx and C
+code. Don't expect any special
+effects and feel free to use anything
+of this.
+
+All sources are in 8bit-unity.zip.
+Should be plug and play, if you copy
+it into main dir of 8-bit Unity.
+
+Because 8-bit Unity only creates a
+bootable disk, you cannot start the
+demo from the SillyPack menu.
+
+You have to open the separate
+SillyPack2k22SE-8-bit-Unity.atr
+from the download archive.
+
+___________________2022, August 05-07

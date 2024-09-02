@@ -1,0 +1,14 @@
+Party:   Silly Venture 2022 SE
+Compo:   ATARI XL/XE 256B INTRO COMPO
+Title:   255B for SV22SE
+Author:  Ralf Patschke
+         aka PPs
+
+Info:    Mono
+
+Endless square movement plus some
+sound in 255 bytes. Should run on any
+ATARI 8-bit machine with GTIA.
+
+Started:  20.06.2022
+Finished: 02.07.2022

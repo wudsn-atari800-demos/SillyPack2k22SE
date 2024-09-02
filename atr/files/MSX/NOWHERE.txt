@@ -1,0 +1,9 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   3 minutes to nowhere
+Author:  Dariusz Duma
+         aka Dhor/ME
+Runtime: 3:06
+Player:  Raster Music Tracker 1.28
+         Origial RMT file included
+Info:    Stereo, 2nd POKEY required

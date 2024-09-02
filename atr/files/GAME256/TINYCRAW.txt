@@ -1,0 +1,19 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE 256B GAME COMPO
+Title:   Tiny Crawler
+Author:  Krzysztof Kluczek
+         aka kk/Altair
+
+Info:    Requires BASIC
+         Requires Atari XL OS Rev. 2
+
+Controls:
+- Joystick      - move
+- Joystick+Fire - shoot in direction
+- ESC           - restart & generate
+                  a new level
+Objective:
+  Vanquish all Chaos Warriors and
+  don't get killed in the process.
+  Hit Escape when you got killed
+  got stuck or you succeeded.

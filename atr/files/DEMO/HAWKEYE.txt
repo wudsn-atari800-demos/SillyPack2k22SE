@@ -1,0 +1,25 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE DEMO COMPO
+Title:   Hawkeye Tunetro
+Author:  Peter Dell
+         aka JAC! (code)
+         Christian Duesterhoefft
+         aka Buddy76cd (msx)
+         Marcej Haucke
+         aka Rocky (logo gfx)
+
+         Original gfx from C64
+
+Info:    Requires PAL
+         Requires 64K RAM
+         Mono, 2nd POKEY supported
+         Do not use fast loaders
+         Song duration 6:24
+
+         Use Stick in Port 1
+
+
+Update:  Version 2023-12-10
+         Fixed loader timing
+         Fixed pace and colors
+         Added support for 2nd POKEY

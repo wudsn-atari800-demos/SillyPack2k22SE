@@ -1,0 +1,18 @@
+Party:   Silly Venture 2022 SE
+Compo:   ATARI XL/XE 256B INTRO COMPO
+Title:   Party-zantki
+Author:  Pawel Matusz
+         aka Kane / Suspect
+
+Info:    Mono
+         Now runs from DOS 2.5
+
+I always liked the 1992 Party-Zanci
+Amiga demo by Joker, a great idea
+which was followed by part 2 and 3
+on the Amiga as well as a ZX Spectrum
+version in 2017.
+This 256-byte Atari demo is a tribute
+to that, introducing some additional
+gender diversity, out of which new 
+and wonderful things may be born! :-)

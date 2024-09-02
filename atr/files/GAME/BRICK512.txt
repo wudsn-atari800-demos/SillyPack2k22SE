@@ -1,0 +1,37 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   Bricks 512
+Author:  Ralf Patschke
+         aka PPs
+
+Info:    Mono
+         Now runs from DOS 2.5
+
+Tiny game for A8 created between
+July, 17th and 22th
+
+What to do?
+Erase all of those 18 bricks :)
+
+How to play?
+Use Paddle A and press its trigger
+to start game.
+
+The game performs a reboot after a
+win or loss.
+
+Initially I wanted to try, if I could
+crunch this into a 256 byte game.
+Soon I realised, that I am not able
+to do so, so next aim was 512 bytes,
+but now I wanted to have sound and
+direction change, if ball hits left
+and right edges of paddle.
+Goal achieved :)
+
+Known bugs:
+Sometimes a brick is not cleared
+correctly when it is hit. Then the
+game counts cleared bricks wrong.
+
+Stay ATARI! - PPs

@@ -1,0 +1,27 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE DEMO COMPO
+Title:   Mode 9
+Author:  Ralf Patschke
+         aka PPs (code, gfx)
+         Christian Duesterhoeft
+         aka Buddy (msx)
+
+Info:    Supports PAL and NTSC
+         Supports 48k RAM and more
+         Mono, 2nd POKEY supported
+
+Tools:   Raster Music Tracker 1.28
+
+A 32 kB intro for all ATARI 8-Bit
+computers with at least 48 kB RAM.
+The nice SV2k22 SE logo was painted
+by mOOnie and converted with G2F.
+The music song2POKEY was composed
+by Buddy.
+
+Created between 28.05.2002 and
+22.06.2022 for Silly Venture 2k22 SE.
+Filesize is 27765 bytes uncompressed.
+
+Have fun and stay ATARI!
+Cheers, PPs

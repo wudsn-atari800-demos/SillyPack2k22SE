@@ -1,0 +1,17 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE DEMO COMPO
+Title:   Unstable
+Author:  Masters of Electric City
+
+         bob_er (code)
+         dhor (msx)
+         mOOnie/MSB (SV logo gfx)
+
+Info:    Requires PAL
+         Requires 64K RAM
+         Mono, 2nd POKEY supported
+         No illegal opcodes used
+         All 65xx CPUs supported
+         
+Tools:   Theta Music Composer
+         and player by Jaskier

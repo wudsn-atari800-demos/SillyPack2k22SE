@@ -1,0 +1,19 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE 256B INTRO COMPO
+Title:   Chryzantemy 256
+Author:  Jakub Husak
+
+Info:    Requires Atari XL OS Rev. 2
+         Mono
+         Now runs from DOS 2.5
+
+Date:    10.08.2022
+Type:    Intro/4-chn music
+Credits: Lisu for inspiration XDDDDDD
+
+Warning:
+Listen to more than 1 minute, then
+you saw and heard everything (well,
+almost; after ca 650 seconds solo
+mode is activated, then after ca 650
+seconds full version plays again)

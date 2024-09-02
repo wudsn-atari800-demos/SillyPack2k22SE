@@ -1,0 +1,14 @@
+Party:   Silly Venture 2k22 SE
+Compo:   ATARI XL/XE DEMO COMPO
+Title:   Smack my candy up
+Author:  Desire
+
+         Heaven (code)
+         Triace (msx)
+
+Info:    Requires PAL
+         Mono, 2nd POKEY supported
+         SillyPack compatible version
+         Now RESET causes cold start
+
+Tools:   Raster Music Tracker 1.28
