@@ -23,12 +23,12 @@ call Makefile.bat
 del /Q asm\*.lst asm\*.lab asm\*.atdbg
 if exist site\%RELEASE%\Altirra\*.rom del /Q site\%RELEASE%\Altirra\*.rom
 
-copy %RELEASE%.atr site\%RELEASE%\%RELEASE%.atr
-copy %RELEASE%.nfo site\%RELEASE%\%RELEASE%.nfo
-copy %RELEASE%.png site\%RELEASE%\%RELEASE%.png
-copy %RELEASE%.nfo %TARGET_NAME%.nfo
-copy %RELEASE%.gif %TARGET_NAME%.gif
-copy %RELEASE%.jpg %TARGET_NAME%.jpg
+copy %RELEASE%.atr site\%RELEASE%\%RELEASE%.atr >NUL
+copy %RELEASE%.nfo site\%RELEASE%\%RELEASE%.nfo >NUL
+copy %RELEASE%.png site\%RELEASE%\%RELEASE%.png >NUL
+copy %RELEASE%.nfo %TARGET_NAME%.nfo >NUL
+copy %RELEASE%.gif %TARGET_NAME%.gif >NUL
+copy %RELEASE%.jpg %TARGET_NAME%.jpg >NUL
 echo [url=https://www.wudsn.com/productions/atari800/%RELEASE_LOWERCASE%/%RELEASE_LOWERCASE%.zip]download[/url]       >%TARGET_DIR%\pouet.txt
 echo [url=https://www.wudsn.com/productions/atari800/%RELEASE_LOWERCASE%/%RELEASE_LOWERCASE%-source.zip]source[/url] >>%TARGET_DIR%\pouet.txt
 echo [url=https://www.wudsn.com/productions/atari800/%RELEASE_LOWERCASE%/%RELEASE_LOWERCASE%.nfo]nfo[/url]           >>%TARGET_DIR%\pouet.txt
