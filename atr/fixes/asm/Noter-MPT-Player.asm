@@ -18,7 +18,7 @@
 msx	= sound_module
 ;lenpat	equ $20		;Defined by the macro
 ;speed	equ $03		;Defined by the macro
-	.print "MPT_PLAYER: lenpat=",?lenpat," speed=",?speed
+;	.print "MPT_PLAYER: lenpat=",?lenpat," speed=",?speed
 zp	equ sound_zp	;12 bytes on page 0
 
 freq	equ zp		;(4)
