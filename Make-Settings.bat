@@ -7,37 +7,15 @@ set WINRAR=C:\jac\system\Windows\Tools\FIL\WinRAR\winrar.exe
 set SITE_DIR=C:\jac\system\WWW\Sites\www.wudsn.com
 
 for %%I in (%BASE_DIR%.) do set RELEASE=%%~nxI
-set RELEASE_LOWERCASE=sillypack2k22se
-setlocal enabledelayedexpansion
 set RELEASE_LOWERCASE=%RELEASE%
 call :lower_case RELEASE_LOWERCASE
 goto :eof
 
 :lower_case
-set %~1=!%~1:a=a!
-set %~1=!%~1:b=b!
-set %~1=!%~1:c=c!
-set %~1=!%~1:d=d!
-set %~1=!%~1:e=e!
-set %~1=!%~1:f=f!
-set %~1=!%~1:g=g!
-set %~1=!%~1:h=h!
-set %~1=!%~1:i=i!
-set %~1=!%~1:j=j!
-set %~1=!%~1:k=k!
-set %~1=!%~1:l=l!
-set %~1=!%~1:m=m!
-set %~1=!%~1:n=n!
-set %~1=!%~1:o=o!
-set %~1=!%~1:p=p!
-set %~1=!%~1:q=q!
-set %~1=!%~1:r=r!
-set %~1=!%~1:s=s!
-set %~1=!%~1:t=t!
-set %~1=!%~1:u=u!
-set %~1=!%~1:v=v!
-set %~1=!%~1:w=w!
-set %~1=!%~1:x=x!
-set %~1=!%~1:y=y!
-set %~1=!%~1:z=z!
+for %%a in ("A=a" "B=b" "C=c" "D=d" "E=e" "F=f" "G=g" "H=h" "I=i"
+            "J=j" "K=k" "L=l" "M=m" "N=n" "O=o" "P=p" "Q=q" "R=r"
+            "S=s" "T=t" "U=u" "V=v" "W=w" "X=x" "Y=y" "Z=z" "Ä=ä"
+            "Ö=ö" "Ü=ü") do (
+    call set %~1=%%%~1:%%~a%%
+)
 goto:eof
