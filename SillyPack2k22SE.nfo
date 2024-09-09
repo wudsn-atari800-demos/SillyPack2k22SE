@@ -23,7 +23,7 @@
  For "SIO2SD TURBO", press "OPTION+START" on the boot screen.
 
  These are the controls for the menu: 
- * Pressing any key while the menu is loading takes you to the DOS shell.
+ * Pressing any key while the menu loads takes you to the DOS shell.
  * Pressing RESET in the menu performs a cold start.
  * Pressing RESET in while a release is running returns to the menu, if possible.
  * Further controls are displayed in the menu itself.
