@@ -38,7 +38,7 @@ echo [url=https://www.wudsn.com/productions/atari800/%RELEASE_LOWERCASE%/%RELEAS
 if not exist site\%RELEASE% mkdir site\%RELEASE%
 cd site\%RELEASE%
 if exist %TARGET% del %TARGET%
-%WINRAR% a -r -afzip %TARGET% *.*
+%WINRAR% a -r  -x*.gitignore -afzip %TARGET% *.*
 cd ..\..
 REM start %TARGET%
 
