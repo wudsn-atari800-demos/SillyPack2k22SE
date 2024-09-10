@@ -5,6 +5,7 @@
 	icl "Fixes-Enable-Basic.asm"
 	icl "Fixes-Load-High.asm"
 	icl "Fixes-OS-ROM.asm"
+	icl "Fixes-VU-Player-2.0.asm"
 	icl "Fixes-XBIOS.asm"
 
 	.macro m_force_coldstart
