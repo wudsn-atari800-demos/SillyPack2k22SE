@@ -3,7 +3,7 @@
 ;
 ;	MPT sound player
 ;
-;	@com.wudsn.ide.asm.mainsourcefile=..\Noter.asm
+;	@com.wudsn.ide.lng.mainsourcefile=..\Noter.asm
 ;	Reformatted and made stereo POKEY compatible by JAC!
 
 /*

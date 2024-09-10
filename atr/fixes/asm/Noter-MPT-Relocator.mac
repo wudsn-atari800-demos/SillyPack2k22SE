@@ -3,7 +3,7 @@
 ;
 ;	MPT relocator from MADS.
 ;
-;	@com.wudsn.ide.asm.mainsourcefile=..\Noter.asm
+;	@com.wudsn.ide.lng.mainsourcefile=..\Noter.asm
 /*
   MPT Relocator
 

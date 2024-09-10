@@ -1,7 +1,7 @@
 ;
 ;	>>> Fix - Kernel Equates by JAC! <<<
 ;
-;	@com.wudsn.ide.asm.mainsourcefile=Fixes.asm
+;	@com.wudsn.ide.lng.mainsourcefile=Fixes.asm
 ;
 
 	.enum opcode
