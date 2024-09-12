@@ -4,4 +4,4 @@
 	m_force_coldstart
 
 	opt h-
-	ins 'GTXFTOP-Original.xex'
+	ins "GTXFTOP-Original.xex"

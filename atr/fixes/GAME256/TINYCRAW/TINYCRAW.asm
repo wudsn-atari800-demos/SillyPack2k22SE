@@ -6,7 +6,7 @@
 	m_enable_basic
 	opt h-
 
-	ins 'TINYCRAW-Original.xex',+2
+	ins "TINYCRAW-Original.xex",+2
 	
 	opt h+
 	run $80
