@@ -8,7 +8,7 @@ IF ERRORLEVEL 1 goto :dir_error
 
 set TEMP_PNG=%TEMP%\SillyPack.png
 set RELEASE_FILE=%RELEASE%
-rem set MAGICK_OPTIONS=-define png:exclude-chunk=date -seed 0 
+set MAGICK_OPTIONS=-define png:exclude-chunk=date -seed 0 
 
 if not exist images goto :dir_error
 
