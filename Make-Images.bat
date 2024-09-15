@@ -11,28 +11,19 @@ set RELEASE_FILE=%RELEASE%
 
 if not exist images goto :dir_error
 
-echo Resizing frame images.
 REM The first row has a smaller height of 200 pixels.
-%MAGICK% images\1.png -scale 336x240 -crop 336x200+0+17 %TEMP%\1.png
-%MAGICK% images\2.png -scale 336x240 -crop 336x200+0+20 %TEMP%\2.png
-%MAGICK% images\3.png -scale 336x240 -crop 336x200+0+20 %TEMP%\3.png
-%MAGICK% images\4.png -scale 336x240 %TEMP%\4.png
-%MAGICK% images\5.png -scale 336x240 %TEMP%\5.png
-%MAGICK% images\6.png -scale 336x240 %TEMP%\6.png
-%MAGICK% images\7.png -scale 336x240 %TEMP%\7.png
-%MAGICK% images\8.png -scale 336x240 %TEMP%\8.png
-%MAGICK% images\9.png -scale 336x240 %TEMP%\9.png
-
-echo Placing all 9 at the right position in the template.
-%MAGICK% composite -geometry +0+0     %TEMP%\1.png images\Template.png %TEMP_PNG%
-%MAGICK% composite -geometry +337+0   %TEMP%\2.png %TEMP_PNG% %TEMP_PNG%
-%MAGICK% composite -geometry +674+0   %TEMP%\3.png %TEMP_PNG% %TEMP_PNG%
-%MAGICK% composite -geometry +0+201   %TEMP%\4.png %TEMP_PNG% %TEMP_PNG%
-%MAGICK% composite -geometry +337+201 %TEMP%\5.png %TEMP_PNG% %TEMP_PNG%
-%MAGICK% composite -geometry +674+201 %TEMP%\6.png %TEMP_PNG% %TEMP_PNG%
-%MAGICK% composite -geometry +0+442   %TEMP%\7.png %TEMP_PNG% %TEMP_PNG%
-%MAGICK% composite -geometry +337+442 %TEMP%\8.png %TEMP_PNG% %TEMP_PNG%
-%MAGICK% composite -geometry +674+442 %TEMP%\9.png %TEMP_PNG% %TEMP_PNG%
+echo Placing all 9 images at the right position in the template.
+%MAGICK% images\Template.png ^
+  ( images\1.png -scale 336x240 -crop 336x200+0+17 +repage ) -geometry +0+0     -composite ^
+  ( images\2.png -scale 336x240 -crop 336x200+0+20 +repage ) -geometry +337+0   -composite ^
+  ( images\3.png -scale 336x240 -crop 336x200+0+25 +repage ) -geometry +674+0   -composite ^
+  ( images\4.png -scale 336x240                    +repage ) -geometry +0+201   -composite ^
+  ( images\5.png -scale 336x240                    +repage ) -geometry +337+201 -composite ^
+  ( images\6.png -scale 336x240                    +repage ) -geometry +674+201 -composite ^
+  ( images\7.png -scale 336x240                    +repage ) -geometry +0+442   -composite ^
+  ( images\8.png -scale 336x240                    +repage ) -geometry +337+442 -composite ^
+  ( images\9.png -scale 336x240                    +repage ) -geometry +674+442 -composite ^
+  %TEMP_PNG%
 
 echo Creating GIF of 336x226 pixels for the productions page preview (medium quality)
 %MAGICK% %TEMP_PNG% -scale 336x226 %RELEASE_FILE%.gif
