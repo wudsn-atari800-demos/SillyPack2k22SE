@@ -82,7 +82,12 @@ jsr_runad
 	jmp (runad)
 
 	.proc get_byte
-	dew l1	;Changes <A>
+;	dew l1	;Changes <A, causes useless warning, therefore implemented by hand below 
+	lda l1
+	bne not_zero
+	dec l1+1
+not_zero
+	dec l1
 
 	ldy #0
 	lda (p1),y
@@ -92,7 +97,7 @@ jsr_runad
 	.endp
 
 	.local file			;Include actual XEX file in first segment
-	ins :filename
+	ins ':filename'
 	.endl
 
 	run main
