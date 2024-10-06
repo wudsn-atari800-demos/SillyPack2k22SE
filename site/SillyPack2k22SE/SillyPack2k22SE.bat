@@ -1,7 +1,7 @@
 @REM Windows Start Script for Altirra
 @ECHO OFF
 setlocal
-set RELEASE=SillyPack2k22SE
+set RELEASE=%~n0
 if exist Altirra\Altirra.exe goto :demo
 ECHO Unpack the contents of the archive to a folder and run %RELEASE%.bat from there.
 pause
