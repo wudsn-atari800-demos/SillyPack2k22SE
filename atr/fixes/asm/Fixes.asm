@@ -33,7 +33,7 @@ not_black
 	dec $2c0,x
 next_color
 	dex
-	bne color_loop
+	bpl color_loop
 	lda $14
 	clc
 	adc #3
